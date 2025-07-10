@@ -6,7 +6,7 @@ Este projeto é um dashboard de **controle financeiro pessoal** desenvolvido no 
 
 O objetivo é ajudar qualquer pessoa a organizar suas finanças pessoais de forma simples, visual e eficiente. O projeto foi construído com base em uma estrutura de dados SQL e conectado diretamente ao Power BI para visualização dinâmica.
 
-<img src="./imagens/controle-de-financas.png" alt="Dashboard de Finanças" width="800"/>
+<img src="./imagens/controle-de-financas.png.png" alt="Dashboard de Finanças" width="800"/>
 
 > 📍 *A imagem acima mostra o dashboard principal com cartão de saldo estilizado com fundo ondulado personalizado.*
 
